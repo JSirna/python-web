@@ -16,5 +16,9 @@ else:
     print ('not found')
 
 #response.content returns the raw bytes
+#print (response.content)
+
+#response.text just returns the text
 response.encoding = 'utf-8'
-print (response.text)
+#print (response.text)
+
