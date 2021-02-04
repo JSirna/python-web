@@ -13,12 +13,14 @@ if (response.status_code == 200):
     print ('get request successful')
     soup = BeautifulSoup(response.content, 'html.parser')
     #bodyContent = soup.find(id='mw-content-text')
-    bodyContent = soup.find_all('div', class_='mw-parser-output')
+    bodyContent = soup.find_all('div', class_='mw-parser-output') #find_all returns an iterable; find just returns a single element
     #print (bodyContent.prettify())
     for element in bodyContent:
         pars = element.find_all('p')
+        if None in pars:
+            continue
         for p in pars:
-            print(p)
+            print(p.text)
 elif (response.status_code == 204):
     print('no content found')
 else:
