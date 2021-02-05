@@ -3,7 +3,7 @@
 Mostly web scraping
 ## Sites
 ### Wikipedia
-[Wikipedia - Earth](https://en.wikipedia.org/wiki/Earth)
+[Wikipedia - Earth](https://en.wikipedia.org/wiki/Earth)  
 [Wikipedia - COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic)  
 
 ### Other
