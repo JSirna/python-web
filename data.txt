@@ -1,221 +1,246 @@
-George Washington (January 8, 1790)
-George Washington (December 8, 1790)
-George Washington (October 25, 1791)
-George Washington (November 6, 1792)
-George Washington (December 3, 1793)
-George Washington (November 19, 1794)
-George Washington (December 8, 1795)
-George Washington (December 7, 1796)
-John Adams (November 22, 1797)
-John Adams (December 8, 1798)
-John Adams (December 3, 1799)
-John Adams (November 11, 1800)
-Thomas Jefferson (December 8, 1801)
-Thomas Jefferson (December 15, 1802)
-Thomas Jefferson (October 17, 1803)
-Thomas Jefferson (November 8, 1804)
-Thomas Jefferson (December 3, 1805)
-Thomas Jefferson (December 2, 1806)
-Thomas Jefferson (October 27, 1807)
-Thomas Jefferson (November 8, 1808)
-James Madison (November 29, 1809)
-James Madison (December 5, 1810)
-James Madison (November 5, 1811)
-James Madison (November 4, 1812)
-James Madison (December 7, 1813)
-James Madison (September 20, 1814)
-James Madison (December 5, 1815)
-James Madison (December 3, 1816)
-James Monroe (December 12, 1817)
-James Monroe (November 16, 1818)
-James Monroe (December 7, 1819)
-James Monroe (November 14, 1820)
-James Monroe (December 3, 1821)
-James Monroe (December 3, 1822)
-James Monroe (December 2, 1823)
-James Monroe (December 7, 1824)
-John Quincy Adams (December 6, 1825)
-John Quincy Adams (December 5, 1826)
-John Quincy Adams (December 4, 1827)
-John Quincy Adams (December 2, 1828)
-Andrew Jackson (December 8, 1829)
-Andrew Jackson (December 6, 1830)
-Andrew Jackson (December 6, 1831)
-Andrew Jackson (December 4, 1832)
-Andrew Jackson (December 3, 1833)
-Andrew Jackson (December 1, 1834)
-Andrew Jackson (December 7, 1835)
-Andrew Jackson (December 5, 1836)
-Martin van Buren (December 5, 1837)
-Martin van Buren (December 3, 1838)
-Martin van Buren (December 2, 1839)
-Martin van Buren (December 5, 1840)
-John Tyler (December 7, 1841)
-John Tyler (December 6, 1842)
-John Tyler (December 1843)
-John Tyler (December 3, 1844)
-James Polk (December 2, 1845)
-James Polk (December 8, 1846)
-James Polk (December 7, 1847)
-James Polk (December 5, 1848)
-Zachary Taylor (December 4, 1849)
-Millard Fillmore (December 2, 1850)
-Millard Fillmore (December 2, 1851)
-Millard Fillmore (December 6, 1852)
-Franklin Pierce (December 5, 1853)
-Franklin Pierce (December 4, 1854)
-Franklin Pierce (December 31, 1855)
-Franklin Pierce (December 2, 1856)
-James Buchanan (December 8, 1857)
-James Buchanan (December 6, 1858)
-James Buchanan (December 19, 1859)
-James Buchanan (December 3, 1860)
-Abraham Lincoln (December 3, 1861)
-Abraham Lincoln (December 1, 1862)
-Abraham Lincoln (December 8, 1863)
-Abraham Lincoln (December 6, 1864)
-Andrew Johnson (December 4, 1865)
-Andrew Johnson (December 3, 1866)
-Andrew Johnson (December 3, 1867)
-Andrew Johnson (December 9, 1868)
-Ulysses S. Grant (December 6, 1869)
-Ulysses S. Grant (December 5, 1870)
-Ulysses S. Grant (December 4, 1871)
-Ulysses S. Grant (December 2, 1872)
-Ulysses S. Grant (December 1, 1873)
-Ulysses S. Grant (December 7, 1874)
-Ulysses S. Grant (December 7, 1875)
-Ulysses S. Grant (December 5, 1876)
-Rutherford B. Hayes (December 3, 1877)
-Rutherford B. Hayes (December 2, 1878)
-Rutherford B. Hayes (December 1, 1879)
-Rutherford B. Hayes (December 6, 1880)
-Chester A. Arthur (December 6, 1881)
-Chester A. Arthur (December 4, 1882)
-Chester A. Arthur (December 4, 1883)
-Chester A. Arthur (December 1, 1884)
-Grover Cleveland (December 8, 1885)
-Grover Cleveland (December 6, 1886)
-Grover Cleveland (December 6, 1887)
-Grover Cleveland (December 3, 1888)
-Benjamin Harrison (December 3, 1889)
-Benjamin Harrison (December 1, 1890)
-Benjamin Harrison (December 9, 1891)
-Benjamin Harrison (December 6, 1892)
-Grover Cleveland (December 4, 1893)
-Grover Cleveland (December 3, 1894)
-Grover Cleveland (December 2, 1895)
-Grover Cleveland (December 7, 1896)
-William McKinley (December 6, 1897)
-William McKinley (December 5, 1898)
-William McKinley (December 5, 1899)
-William McKinley (December 3, 1900)
-Theodore Roosevelt (December 3, 1901)
-Theodore Roosevelt (December 2, 1902)
-Theodore Roosevelt (December 7, 1903)
-Theodore Roosevelt (December 6, 1904)
-Theodore Roosevelt (December 5, 1905)
-Theodore Roosevelt (December 3, 1906)
-Theodore Roosevelt (December 3, 1907)
-Theodore Roosevelt (December 8, 1908)
-William H. Taft (December 7, 1909)
-William H. Taft (December 6, 1910)
-William H. Taft (December 5, 1911)
-William H. Taft (December 3, 1912)
-Woodrow Wilson (December 2, 1913)
-Woodrow Wilson (December 8, 1914)
-Woodrow Wilson (December 7, 1915)
-Woodrow Wilson (December 5, 1916)
-Woodrow Wilson (December 4, 1917)
-Woodrow Wilson (December 2, 1918)
-Woodrow Wilson (December 2, 1919)
-Woodrow Wilson (December 7, 1920)
-Warren Harding (December 6, 1921)
-Warren Harding (December 8, 1922)
-Calvin Coolidge (December 6, 1923)
-Calvin Coolidge (December 3, 1924)
-Calvin Coolidge (December 8, 1925)
-Calvin Coolidge (December 7, 1926)
-Calvin Coolidge (December 6, 1927)
-Calvin Coolidge (December 4, 1928)
-Herbert Hoover (December 3, 1929)
-Herbert Hoover (December 2, 1930)
-Herbert Hoover (December 8, 1931)
-Herbert Hoover (December 6, 1932)
-Franklin D. Roosevelt (January 3, 1934)
-Franklin D. Roosevelt (January 4, 1935)
-Franklin D. Roosevelt (January 3, 1936)
-Franklin D. Roosevelt (January 6, 1937)
-Franklin D. Roosevelt (January 3, 1938)
-Franklin D. Roosevelt (January 4, 1939)
-Franklin D. Roosevelt (January 3, 1940)
-Franklin D. Roosevelt (January 6, 1941)
-Franklin D. Roosevelt (January 6, 1942)
-Franklin D. Roosevelt (January 7, 1943)
-Franklin D. Roosevelt (January 11, 1944)
-Franklin D. Roosevelt (January 6, 1945)
-Harry S. Truman (January 21, 1946)
-Harry S. Truman (January 6, 1947)
-Harry S. Truman (January 7, 1948)
-Harry S. Truman (January 5, 1949)
-Harry S. Truman (January 4, 1950)
-Harry S. Truman (January 8, 1951)
-Harry S. Truman (January 9, 1952)
-Harry S. Truman (January 7, 1953)
-Dwight D. Eisenhower (February 2, 1953)
-Dwight D. Eisenhower (January 7, 1954)
-Dwight D. Eisenhower (January 6, 1955)
-Dwight D. Eisenhower (January 5, 1956)
-Dwight D. Eisenhower (January 10, 1957)
-Dwight D. Eisenhower (January 9, 1958)
-Dwight D. Eisenhower (January 9, 1959)
-Dwight D. Eisenhower (January 7, 1960)
-Dwight D. Eisenhower (January 12, 1961)
-John F. Kennedy (January 30, 1961)
-John F. Kennedy (January 11, 1962)
-John F. Kennedy (January 14, 1963)
-Lyndon B. Johnson (January 8, 1964)
-Lyndon B. Johnson (January 4, 1965)
-Lyndon B. Johnson (January 12, 1966)
-Lyndon B. Johnson (January 10, 1967)
-Lyndon B. Johnson (January 17, 1968)
-Lyndon B. Johnson (January 14, 1969)
-Richard Nixon (January 22, 1970)
-Richard Nixon (January 22, 1971)
-Richard Nixon (January 20, 1972)
-Richard Nixon (February 2, 1973)
-Richard Nixon (January 30, 1974)
-Gerald R. Ford (January 15, 1975)
-Gerald R. Ford (January 19, 1976)
-Gerald R. Ford (January 12, 1977)
-Jimmy Carter (January 19, 1978)
-Jimmy Carter (January 25, 1979)
-Jimmy Carter (January 21, 1980)
-Jimmy Carter (January 16, 1981)
-Ronald Reagan (January 26, 1982)
-Ronald Reagan (January 25, 1983)
-Ronald Reagan (January 25, 1984)
-Ronald Reagan (February 6, 1985)
-Ronald Reagan (February 4, 1986)
-Ronald Reagan (January 27, 1987)
-Ronald Reagan (January 25, 1988)
-George H.W. Bush (January 31, 1990)
-George H.W. Bush (January 31, 1990)
-George H.W. Bush (January 29, 1991)
-George H.W. Bush (January 28, 1992)
-William J. Clinton (February 17, 1993)
-William J. Clinton (January 25, 1994)
-William J. Clinton (January 24, 1995)
-William J. Clinton (January 23, 1996)
-William J. Clinton (February 4, 1997)
-William J. Clinton (January 27, 1998)
-William J. Clinton (January 19, 1999)
-William J. Clinton (January 27, 2000)
-George W. Bush (February 27, 2001)
-George W. Bush (January 29, 2002)
-George W. Bush (January 28th, 2003)
-George W. Bush (January 20th, 2004)
-George W. Bush (February 2nd, 2005)
-George W. Bush (January 31st, 2006)
-George W. Bush (January 23rd, 2007)
-George W. Bush (January 28th, 2008)
+Daybooks
+Double-entry
+General ledger
+T Accounts
+Trial balance
+Journal
+Debits and credits
+Chart of accounts
+Petty cash
+Imprest system
+Bank reconciliation
+Ledger
+Single-entry
+Bookkeeper
+Assets
+Liabilities
+Equity
+Income
+Expenses
+Depreciation
+Accruals
+Prepayments
+VAT/GST
+Balance sheet
+Income statement
+Accountant
+Accounting technician
+Accounts clerk
+vte
+Historical cost
+Constant purchasing power
+Management
+Tax
+Audit
+Budget
+Cost
+Forensic
+Financial
+Fund
+Governmental
+Management
+Social
+Tax
+Accounting period
+Accrual
+Constant purchasing power
+Economic entity
+Fair value
+Going concern
+Historical cost
+Matching principle
+Materiality
+Revenue recognition
+Unit of account
+Assets
+Cash
+Cost of goods sold
+Depreciation / Amortization
+Equity
+Expenses
+Goodwill
+Liabilities
+Profit
+Revenue
+Generally-accepted principles
+Generally-accepted auditing standards
+Convergence
+International Financial Reporting Standards
+International Standards on Auditing
+Management Accounting Principles
+Annual report
+Balance sheet
+Cash-flow
+Equity
+Income
+Management discussion
+Notes to the financial statements
+Bank reconciliation
+Debits and credits
+Double-entry system
+FIFO and LIFO
+Journal
+Ledger / General ledger
+T accounts
+Trial balance
+Financial
+Internal
+Firms
+Report
+Accountants
+Accounting organizations
+Luca Pacioli
+History
+Research
+Positive accounting
+Sarbanes–Oxley Act
+vte
+Bookkeeping is the recording of financial transactions, and is part of the process of accounting in business.[1]  Transactions include purchases, sales, receipts and payments by an individual person or an organization/corporation. There are several standard methods of bookkeeping, including the single-entry and double-entry bookkeeping systems. While these may be viewed as "real" bookkeeping, any process for recording financial transactions is a bookkeeping process.
+
+Bookkeeping is the work of a bookkeeper (or book-keeper), who records the day-to-day financial transactions of a business. They usually write the daybooks (which contain records of sales, purchases, receipts, and payments), and document each financial transaction, whether cash or credit, into the correct daybook—that is, petty cash book, suppliers ledger, customer ledger, etc.—and the general ledger. Thereafter, an accountant can create financial reports from the information recorded by the bookkeeper.
+
+Bookkeeping refers mainly to the record-keeping aspects of financial accounting, and involves preparing source documents for all transactions, operations, and other events of a business.
+
+The bookkeeper brings the books to the trial balance stage: an accountant may prepare the income statement and balance sheet using the trial balance and ledgers prepared by the bookkeeper.
+
+Contents
+
+1 History
+
+1.1 Process
+
+
+2 Entry systems
+
+2.1 Single-entry system
+2.2 Double-entry system
+
+
+3 Daybooks
+4 Petty cash book
+5 Journals
+6 Ledgers
+7 Abbreviations used in bookkeeping
+8 Chart of accounts
+9 Computerized bookkeeping
+10 See also
+11 References
+12 External links
+
+
+1.1 Process
+
+
+2.1 Single-entry system
+2.2 Double-entry system
+
+History[edit]
+The origin of book-keeping is lost in obscurity, but recent researches indicate that methods of keeping accounts have existed from the remotest times of human life in cities. Babylonian records written with styli on small slabs of clay have been found dating to 2600 BCE.[2] 
+The term "waste book" was used in colonial America, referring to the documenting of daily transactions of receipts and expenditures. Records were made in chronological order, and for temporary use only. Daily records were then transferred to a daybook or account ledger to balance the accounts and to create a permanent journal; then the waste book could be discarded, hence the name.[3]
+
+Process[edit]
+The bookkeeping process primarily records the financial effects of transactions. An important difference between a manual and an electronic accounting system is the former's latency between the recording of a financial transaction and its posting in the relevant account. This delay, which is absent in electronic accounting systems due to nearly instantaneous posting to relevant accounts, is characteristic of manual systems, and gave rise to the primary books of accounts—cash book, purchase book, sales book, etc.—for immediately documenting a financial transaction.
+
+In the normal course of business, a document is produced each time a transaction occurs. Sales and purchases usually have invoices or receipts. Deposit slips are produced when lodgements (deposits) are made to a bank account. Checks (spelled "cheques" in the UK and several other countries) are written to pay money out of the account. Bookkeeping first involves recording the details of all of these source documents into multi-column journals (also known as books of first entry or daybooks). For example, all credit sales are recorded in the sales journal; all cash payments are recorded in the cash payments journal. Each column in a journal normally corresponds to an account. In the single entry system, each transaction is recorded only once. Most individuals who balance their check-book each month are using such a system, and most personal-finance software follows this approach.
+
+After a certain period, typically a month, each column in each journal is totalled to give a summary for that period. Using the rules of double-entry, these journal summaries are then transferred to their respective accounts in the ledger, or account book. For example, the entries in the Sales Journal are taken and a debit entry is made in each customer's account (showing that the customer now owes us money), and a credit entry might be made in the account for "Sale of class 2 widgets" (showing that this activity has generated revenue for us). This process of transferring summaries or individual transactions to the ledger is called  posting. Once the posting process is complete, accounts kept using the "T" format undergo balancing, which is simply a process to arrive at the balance of the account.
+
+As a partial check that the posting process was done correctly, a working document called an unadjusted trial balance is created. In its simplest form, this is a three-column list. Column One contains the names of those accounts in the ledger which have a non-zero balance. If an account has a debit balance, the balance amount is copied into Column Two (the debit column); if an account has a credit balance, the amount is copied into Column Three (the credit column). The debit column is then totalled, and then the credit column is totalled. The two totals must agree—which is not by chance—because under the double-entry rules, whenever there is a posting, the debits of the posting equal the credits of the posting. If the two totals do not agree, an error has been made, either in the journals or during the posting process. The error must be located and rectified, and the totals of the debit column and the credit column recalculated to check for agreement before any further processing can take place.
+
+Once the accounts balance, the accountant makes a number of adjustments and changes the balance amounts of some of the accounts. These adjustments must still obey the double-entry rule: for example, the inventory account and asset account might be changed to bring them into line with the actual numbers counted during a stocktake. At the same time, the expense account associated with usage of inventory is adjusted by an equal and opposite amount. Other adjustments such as posting depreciation and prepayments are also done at this time. This results in a listing called the adjusted trial balance. It is the accounts in this list, and their corresponding debit or credit balances, that are used to prepare the financial statements.
+
+Finally financial statements are drawn from the trial balance, which may include:
+
+the income statement, also known as the statement of financial results, profit and loss account, or P&L
+the balance sheet, also known as the statement of financial position
+the cash flow statement
+the statement of changes in equity, also known as the statement of total recognised gains and losses
+Entry systems[edit]
+Single-entry system[edit]
+The primary bookkeeping record in single-entry bookkeeping is the cash book, which is similar to a checking account register (in UK: cheque account, current account), except all entries are allocated among several categories of income and expense accounts. Separate account records are maintained for petty cash, accounts payable and receivable, and other relevant transactions such as inventory and travel expenses. To save time and avoid the errors of manual calculations, single-entry bookkeeping can be done today with do-it-yourself bookkeeping software.
+
+Double-entry system[edit]
+A double-entry bookkeeping system is a set of rules for recording financial information in a financial accounting system in which every transaction or event changes at least two different nominal ledger accounts.
+
+Daybooks[edit]
+A daybook is a descriptive and chronological (diary-like) record of day-to-day financial transactions; it is also called a book of original entry. The daybook's details must be transcribed formally into journals to enable posting to ledgers. Daybooks include:
+
+Sales daybook, for recording sales invoices.
+Sales credits daybook, for recording sales credit notes.
+Purchases daybook, for recording purchase invoices.
+Purchases debits daybook, for recording purchase debit notes.
+Cash daybook, usually known as the cash book, for recording all monies received and all monies paid out. It may be split into two daybooks: a receipts daybook documenting every money-amount received, and a payments daybook recording every payment made.
+General Journal daybook, for recording journal entries.
+Petty cash book[edit]
+A petty cash book is a record of small-value purchases before they are later transferred to the ledger and final accounts; it is maintained by a petty or junior cashier. This type of cash book usually uses the imprest system: a certain amount of money is provided to the petty cashier by the senior cashier. This money is to cater for minor expenditures (hospitality, minor stationery, casual postage, and so on) and is reimbursed periodically on satisfactory explanation of how it was spent.
+And also the balance of petty cash book is Asset.
+
+Journals[edit]
+Journals are recorded in the general journal daybook. A journal is a formal and chronological record of financial transactions before their values are accounted for in the general ledger as debits and credits. A company can maintain one journal for all transactions, or keep several journals based on similar activity (e.g., sales, cash receipts, revenue, etc.), making transactions easier to summarize and reference later. For every debit journal entry recorded, there must be an equivalent credit journal entry to maintain a balanced accounting equation.[4]
+
+Ledgers[edit]
+A ledger is a record of accounts. The ledger is a permanent summary of all amounts entered in supporting Journals which list individual transactions by date. These accounts are recorded separately, showing their beginning/ending balance. A journal lists financial transactions in chronological order, without showing their balance but showing how much is going to be charged in each account. A ledger takes each financial transaction from the journal and records it into the corresponding account for every transaction listed. The ledger also sums up the total of every account, which is transferred into the balance sheet and the income statement. There are three different kinds of ledgers that deal with book-keeping:
+
+Sales ledger, which deals mostly with the accounts receivable account. This ledger consists of the records of the financial transactions made by customers to the business.
+Purchase ledger is the record of the purchasing transactions a company does; it goes hand in hand with the Accounts Payable account.
+Abbreviations used in bookkeeping[edit]
+A/c – Account
+Acc – Account
+A/R – Accounts receivable
+A/P – Accounts payable
+B/S – Balance sheet
+c/d – Carried down
+b/d – Brought down
+c/f – Carried forward
+b/f – Brought forward
+Dr – Debit side of a ledger. "Dr" stands for "Debit register"
+Cr – Credit side of a ledger. "Cr" stands for "Credit register"
+G/L – General ledger; (or N/L – nominal ledger)
+PL – Profit and loss; (or I/S – income statement)
+P/R - Payroll
+PP&E – Property, plant and equipment
+TB – Trial Balance
+GST – Goods and services tax
+SGST- State goods & service tax
+CGST- Central goods & service tax
+IGST- integrated goods & service tax
+VAT – Value added tax
+CST – Central sale tax
+TDS – Tax deducted at source
+AMT – Alternate minimum tax
+EBITDA – Earnings before interest, taxes, depreciation and amortisation
+EBDTA – Earnings before depreciation, taxes and amortisation
+EBT – Earnings before tax
+EAT – Earnings after tax
+PAT – Profit after tax
+PBT – Profit before tax
+Depr – Depreciation
+Dep – Depreciation
+CPO – Cash paid out
+CP - Cash Payment
+w.e.f. - with effect from
+@ - at the rate of
+L/F - ledger folio
+J/F - Journal Folio
+V.no.- voucher number
+V/N - voucher number
+Chart of accounts[edit]
+A chart of accounts is a list of the accounts codes that can be identified with numeric, alphabetical, or alphanumeric codes allowing the account to be located in the general ledger. The equity section of the chart of accounts is based on the fact that the legal structure of the entity is of a particular legal type. Possibilities include sole trader, partnership, trust, and company.[5]
+
+Computerized bookkeeping[edit]
+Computerized bookkeeping removes many of the paper "books" that are used to record the financial transactions of a business entity; instead, relational databases are used today, but typically, these still enforce the norms of bookkeeping including the single-entry and double-entry bookkeeping systems. CPAs supervise the internal controls for computerized bookkeeping systems, which serve to minimize errors in documenting the numerous activities a business entity may initiate or complete over an accounting period.
+
+See also[edit]
+Accounting
+Comparison of accounting software
+POS system: records sales and updates stock levels
+Institute of Certified Bookkeepers
+References[edit]
+External links[edit]
+Guide to the Account Book from Italy 1515-1520
+GND: 4008619-7
+HDS: 014186
+LCCN: sh85015733
+NDL: 00560834
+https://www.tandfonline.com/doi/abs/10.1080/09585209500000049?journalCode=rabf20
+
