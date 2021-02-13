@@ -3,8 +3,14 @@ from bs4 import BeautifulSoup
 import mysql.connector 
 from mysql.connector import (connection)
 
-URL = 'https://www.infoplease.com/primary-sources/government/presidential-speeches/state-union-addresses'
+import requests 
+from functools import partial
 
+URL = 'https://www.infoplease.com/primary-sources/government/presidential-speeches/state-union-addresses'
+pref = 'https://www.infoplease.com'
+properLink = 'primary-sources/government/presidential-speeches/state-union-addresses'
+
+#attempt connection to mysql database 'DataExtraction' - local dB
 try:
   cnx = mysql.connector.connect(user='testUser',
                                 database='DataExtraction')
@@ -30,8 +36,19 @@ if (response.status_code == 200):
     bodyContent = soup.find_all('span', class_='article') #find_all returns an iterable; find just returns a single element
 
     for elements in bodyContent:
-      links = elements.find('a')['href']
-      #print (links)
-      # if None in links:
-      #     continue
-      print (links)
+      links = elements.find_all('a') #find each link in the content extracted
+      for link in links:
+        print(link.get('href'))
+
+
+      # if links == "":
+      #   print('No link found')
+      # elif properLink not in links:
+      #   print('This? : ' + links)
+
+      # print (pref + links)
+      
+elif (response.status_code == 204):
+    print('no content found')
+else:
+    print ('not found')
