@@ -68,7 +68,7 @@ def extractData(links):
           td = head.text.split('(')
         else:
           td = head.text.split('(') # returns a list of name and date
-        print(td[0])
+        td[1] = td[1].replace(')','')
         #print(td[1])
         td.append(l) # add in the URL
           
