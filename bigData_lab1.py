@@ -5,10 +5,11 @@ from mysql.connector import (connection)
 from functools import partial
 import csv
 import os.path
+import string
 
 URL = 'https://www.infoplease.com/primary-sources/government/presidential-speeches/state-union-addresses'
 pref = 'https://www.infoplease.com'
-properLink = '/primary-sources/government/presidential-speeches/state-union-addresses'
+properLink = '/primary-sources/government/presidential-speeches/state-union-address-'
 
 #check to see if response returned successful
 def attemptRequest(url):
@@ -37,10 +38,12 @@ def extractLinks(soup):
       links = elements.find_all('a') #find each link in the content extracted
       for link in links:
           linkText = link.get('href')
+          nameDate = link.text.replace('.','').replace(',','').replace('(','').replace(')','')
+          #print(pref + properLink + nameDate.lower().replace(' ','-'))
           if linkText == "":
               print('No link found')
           else:
-              listStuff.append(pref + linkText)
+              listStuff.append(pref + properLink + nameDate.lower().replace(' ','-'))
 
   return listStuff
 
@@ -53,12 +56,15 @@ def extractData(links):
   for l in links:
     # Create a new URL and web request to access each link individually
     URL = l
+    #print(l)
+    # example: https://www.infoplease.com/primary-sources/government/presidential-speeches/state-union-address-george-washington-january-8-1790
     response = requests.get(URL)
     response.encoding = 'utf-8'
+
+    td = [] #list for all matching fields -> goes into csv file
     if (response.status_code == 200):
       soup2 = BeautifulSoup(response.content, 'lxml')
 
-      td = [] #list for all matching fields -> goes into csv file
       # find the content containing Name and Date fields
       content = soup2.div.find('article').find_all('div', class_='titlepage')
       
@@ -68,7 +74,7 @@ def extractData(links):
           td = head.text.split('(')
         else:
           td = head.text.split('(') # returns a list of name and date
-        td[1] = td[1].replace(')','')
+        td[1] = td[1].replace('.','').replace(',','').replace('(','').replace(')','')
         #print(td[1])
         td.append(l) # add in the URL
           
@@ -100,6 +106,8 @@ def extractData(links):
         print('no content found')
     else:
         print ('not found')
+        td.append('None Found')
+        dbl_array.append(td)
 
 # MySQL connection and data creation in Table
 def createTable():
