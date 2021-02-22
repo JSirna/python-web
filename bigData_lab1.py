@@ -2,10 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import mysql.connector 
 from mysql.connector import (connection)
+from mysql.connector import errorcode
+import sqlalchemy
+from sqlalchemy import create_engine
 from functools import partial
 import csv
 import os.path
 import string
+import pandas as pd
 
 URL = 'https://www.infoplease.com/primary-sources/government/presidential-speeches/state-union-addresses'
 pref = 'https://www.infoplease.com'
@@ -75,7 +79,9 @@ def extractData(links):
       soup2 = BeautifulSoup(response.content, 'lxml')
 
       # find the content containing Name and Date fields
-      content = soup2.div.find('article').find_all('div', class_='titlepage')
+      #content = soup2.div.find('article').find_all('div', class_='titlepage')
+
+      # Check if the tags exist for the current URL - some didn't exist 
       if soup2.div.find('article').find_all('div', class_='titlepage'):
         #print('class titlepage exists')
         content = soup2.div.find('article').find_all('div', class_='titlepage')
@@ -90,7 +96,6 @@ def extractData(links):
           except IndexError:
             pass
 
-            
           #print(td[1])
           td.append(l) # add in the URL
       elif soup2.div.find('article').find_all('h1', class_='page-title'):
@@ -117,16 +122,19 @@ def extractData(links):
       # original code for multiple text files
       count += 1
       fname = 'InfoUnionAddress_' + str(count) + '.txt'
-      completeName = os.path.join(s_path, fname)
-      td.append(completeName) #add file path
+      #completeName = os.path.join(s_path, fname)
+      td.append(os.path.join(s_path, "addresses.txt")) #add file path
 
       # append address text to list for csv
       #td.append(combinedPars)
-      dbl_array.append(td)
 
-      with open('data.csv', 'w', newline='') as csvfile:
+      # Complete speech data added to double array
+      dbl_array.append(td)
+      
+      print('Record ' + str(count) + ', ', end="", flush=True)
+      with open('data.csv', 'w', newline='\n', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',',
-                                quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                                quotechar='"', quoting=csv.QUOTE_ALL)
         spamwriter.writerow(['Name', 'Date', 'Link to Address', 'Location to Text file/Filename','Address Text'])
         spamwriter.writerows(dbl_array)
       csvfile.close()
@@ -148,11 +156,23 @@ def createTable():
   try:
     cnx = mysql.connector.connect(user='testUser',
                                   database='DataExtraction')
+    
     # Check MySQL DB tables; if they don't exist then add them
     mycursor = cnx.cursor()
 
+    # MySQL has errors
     # Create Table
-    #use pandas?
+    #mycursor.execute("CREATE TABLE state_union_addresses (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255), date VARCHAR(255), link VARCHAR(255), location VARCHAR(255), add_text VARCHAR(255))")
+
+    #Load file into table
+    #mycursor.execute("LOAD DATA INFILE 'data.csv' INTO TABLE state_union_addresses FIELDS TERMINATED BY ',' ENCLOSED BY '\"' LINES TERMINATED BY '\n' IGNORE 1 ROWS")
+
+    #pandas - this works with no errors
+    df = pd.read_csv("data.csv",dtype={'Address Text':str})
+    sqlEngine = create_engine('mysql://testUser@localhost:3306/DataExtraction', echo=True)
+    tableName = 'state_union_addresses'
+    dbConnection = sqlEngine.connect()
+    df.to_sql(tableName, dbConnection, if_exists='replace')
 
     mycursor.execute("SHOW TABLES")
     for x in mycursor:
@@ -169,3 +189,4 @@ def createTable():
 
 # Run
 attemptRequest(URL)
+createTable()
