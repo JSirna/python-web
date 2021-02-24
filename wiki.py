@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 #URL hard-coded
-URL = 'https://en.wikipedia.org/wiki/Bookkeeping'
+URL = 'https://en.wikipedia.org/wiki/Prince_of_Wales'
 
 #get request
 response = requests.get(URL)
@@ -16,7 +16,7 @@ if (response.status_code == 200):
     bodyContent = soup.find_all('div', class_='mw-parser-output') 
     #find_all returns an iterable; find just returns a single element
     tags = soup.find_all(True)
-    with open('data.txt','w') as f:
+    with open('output.txt','w',encoding='utf-8') as f:
         for element in bodyContent:
             pars = element.find_all(['p','h1','h2','h3','ul'])
             if None in pars:
