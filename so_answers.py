@@ -12,16 +12,9 @@ if (response.status_code == 200):
     print ('get request successful')
     soup = BeautifulSoup(response.content, 'lxml')
     
-    bodyContent = soup.find_all('div', class_='answer')
-    #find_all returns an iterable; find just returns a single element
-    #tags = soup.find_all(True)
-    
-    with open('so_output.txt','w',encoding='utf-8') as f:
-        for tag in bodyContent:
-            print(tag)
-            f.write(str(tag))
-    f.close()
-    
+    bodyContent = soup.find('div', class_='answer')
+    for c in bodyContent.descendants:
+        print (c)
 elif (response.status_code == 204):
     print('no content found')
 else:
